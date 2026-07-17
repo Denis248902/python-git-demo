@@ -25,3 +25,7 @@ python-basics/
 2. Выполните: `python имя_файла.py` (например, `python calculator.py`)
 
 # python-git-demo
+
+## Добавлен hello.py
+Привет
+# python
