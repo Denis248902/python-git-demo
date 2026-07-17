@@ -29,3 +29,4 @@ python-basics/
 ## Добавлен hello.py
 Привет
 # python
+# gold
